@@ -85,48 +85,6 @@ const initHuman = (modelId) => {
 		// }
 	});
 	human.on('scene.objectsSelected', onClickMuscle)
-	// human.on('scene.objectsSelected', (pickEvent) => {
-	//     console.log('scene.objectsSelected event: ', pickEvent);
-	//     let eventName;
-	//     let eventStatus;
-	//     Object.entries(pickEvent).forEach(([key, value]) => {
-	//         eventName = key;
-	//         eventStatus = value;
-	//     })
-	//     const reg = new RegExp(/-(\w*)_ID/);
-	//     const regMatch = eventName.match(reg);
-	//     const muscle = regMatch[1];
-	//     const element = google.search.cse.element.getElement('storesearch');
-	//     console.log(muscle, eventStatus);
-	//     if(eventStatus) {
-	//         const clearMuscle = muscle.replaceAll('_', ' ');
-	//         element.execute(clearMuscle + ' stretching exercise');
-	//         wikipediaSearchQuery = clearMuscle;
-	//         setWikipediaSrc();
-	//         // Данные, которые мы хотим отправить
-	//         // const dataToSend = eventName;
-	//
-	//         // Создаем объект FormData и добавляем в него данные
-	//         // const formData = new FormData();
-	//         // formData.append('data', dataToSend);
-	//
-	//         // Отправляем POST-запрос на сервер
-	//         // fetch('save_data.php', {
-	//         //     method: 'POST',
-	//         //     body: formData
-	//         // })
-	//         //         .then(response => response.json())
-	//         //         .then(result => {
-	//         //             console.log(result); // Выводим ответ от сервера
-	//         //         })
-	//         //         .catch(error => {
-	//         //             console.error('Error:', error);
-	//         //         });
-	//     } else {
-	//         element.clearAllResults();
-	//     }
-	//
-	// });
 }
 initHuman(femaleId);
 
