@@ -63,60 +63,103 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
+
+html, body {
+  font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
 iframe {
   border: 0;
   display: block;
 }
 main {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 50px 1fr;
+  height: 100vh;
 
-  #info-panel {
-    width: 50%;
-    height: 100vh;
-    position: relative;
-    z-index: 9;
-    background: white;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    border-bottom: 1px #c7c7c7 solid;
+  .info-panel {
 
-    .info-panel__header {
-      height: 5vh;
+    &__header {
       display: flex;
       align-items: center;
-      border-bottom: 1px #c5c5c5 solid;
+      justify-content: space-between;
 
       button {
         @include header-button
+      }
+    }
+
+    &__language-buttons {
+      button {
+        background: transparent;
+        box-shadow: none;
+        border: 0;
+        padding: 6px 10px;
+      }
+    }
+  }
+
+  .human-panel {
+    &__header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    &__label {
+      padding-left: 10px;
+    }
+
+    &__buttons {
+      button {
+        @include header-button
+      }
+    }
+  }
+
+  #info-panel {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 9;
+    overflow: hidden;
+    background: white;
+    border-top: 1px #c7c7c7 solid;
+
+    & > div {
+      height: 100%;
+    }
+
+    #google {
+      overflow-y: scroll;
+    }
+
+    .google-header {
+      padding-top: 13px;
+      padding-left: 15px;
+
+      button {
+        @include header-button;
+        padding: 3px 10px;
       }
     }
 
     iframe {
       width: 100%;
-      height: 95vh;
+      height: 100%;
     }
   }
 
   #human-panel {
-    width: 50%;
-    height: 100vh;
-
-    .human-panel__header {
-      height: 5vh;
-      display: flex;
-      align-items: center;
-      justify-content: flex-end;
-
-      button {
-        @include header-button
-      }
-    }
+    width: 100%;
+    height: 100%;
 
     iframe#human {
       width: 100%;
-      height: 95vh;
+      height: 100%;
     }
   }
 }

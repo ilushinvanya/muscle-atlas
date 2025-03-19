@@ -15,7 +15,7 @@ function setWikipediaSrc() {
 
 
 function onClickMuscle(muscleId) {
-	const googleSearchInput = google.search.cse.element.getElement('storesearch');
+
 	console.log('scene.objectsSelected event: ', muscleId);
 	let eventName;
 	let eventStatus;
@@ -27,10 +27,12 @@ function onClickMuscle(muscleId) {
 	const regMatch = eventName.match(reg);
 	const muscle = regMatch[1];
 
-	console.log(muscle, eventStatus);
+	// console.log(muscle, eventStatus);
+
+	const googleSearchInput = google.search.cse.element.getElement('storesearch');
 	if(eventStatus) {
 		const clearMuscle = muscle.replaceAll('_', ' ');
-		googleSearchInput.execute(clearMuscle + ' stretching exercise');
+		googleSearchInput.execute(clearMuscle + ' ' + currentGoogleSuggestion);
 		wikipediaSearchQuery = clearMuscle;
 		setWikipediaSrc();
 	} else {
@@ -86,7 +88,7 @@ const initHuman = (modelId) => {
 	});
 	human.on('scene.objectsSelected', onClickMuscle)
 }
-initHuman(femaleId);
+// initHuman(femaleId);
 
 
 
@@ -133,4 +135,19 @@ function toggleElement(name, visible) {
 		elements[name].panel.classList.add('hidden');
 	}
 }
-setPanel('wikipedia')
+setPanel('google')
+
+let currentGoogleSuggestion = ''
+const stretchBtnEl = document.getElementById('stretch-btn');
+const strengtheningBtnEl = document.getElementById('strengthening-btn');
+function setGoogleSuggestion(name) {
+	currentGoogleSuggestion = name;
+	if (name === 'stretch') {
+		stretchBtnEl.classList.add('active')
+		strengtheningBtnEl.classList.remove('active')
+	}
+	if (name === 'strengthening') {
+		strengtheningBtnEl.classList.add('active')
+		stretchBtnEl.classList.remove('active')
+	}
+}

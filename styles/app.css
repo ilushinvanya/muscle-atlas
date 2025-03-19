@@ -1,7 +1,11 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: content-box;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
 iframe {
@@ -10,25 +14,17 @@ iframe {
 }
 
 main {
-  display: flex;
-}
-main #info-panel {
-  width: 50%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 50px 1fr;
   height: 100vh;
-  position: relative;
-  z-index: 9;
-  background: white;
-  overflow-y: scroll;
-  overflow-x: hidden;
-  border-bottom: 1px #c7c7c7 solid;
 }
-main #info-panel .info-panel__header {
-  height: 5vh;
+main .info-panel__header {
   display: flex;
   align-items: center;
-  border-bottom: 1px #c5c5c5 solid;
+  justify-content: space-between;
 }
-main #info-panel .info-panel__header button {
+main .info-panel__header button {
   appearance: none;
   background-color: #FAFBFC;
   border: 1px solid rgba(27, 31, 35, 0.15);
@@ -53,110 +49,192 @@ main #info-panel .info-panel__header button {
   white-space: nowrap;
   word-wrap: break-word;
 }
-main #info-panel .info-panel__header button:hover {
+main .info-panel__header button:hover {
   background-color: #F3F4F6;
   text-decoration: none;
   transition-duration: 0.1s;
 }
-main #info-panel .info-panel__header button:disabled {
+main .info-panel__header button:disabled {
   background-color: #FAFBFC;
   border-color: rgba(27, 31, 35, 0.15);
   color: #959DA5;
   cursor: default;
 }
-main #info-panel .info-panel__header button:active {
+main .info-panel__header button:active {
   background-color: #EDEFF2;
   box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
   transition: none 0s;
 }
-main #info-panel .info-panel__header button:focus {
+main .info-panel__header button:focus {
   outline: 1px transparent;
 }
-main #info-panel .info-panel__header button:before {
+main .info-panel__header button:before {
   display: none;
 }
-main #info-panel .info-panel__header button::-webkit-details-marker {
+main .info-panel__header button::-webkit-details-marker {
   display: none;
 }
-main #info-panel .info-panel__header button.active {
+main .info-panel__header button.active {
+  background-color: #2ea44f;
+  color: white;
+}
+main .info-panel__language-buttons button {
+  background: transparent;
+  box-shadow: none;
+  border: 0;
+  padding: 6px 10px;
+}
+main .human-panel__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+main .human-panel__label {
+  padding-left: 10px;
+}
+main .human-panel__buttons button {
+  appearance: none;
+  background-color: #FAFBFC;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+  box-sizing: border-box;
+  color: #24292E;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  padding: 6px 16px;
+  position: relative;
+  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+  word-wrap: break-word;
+}
+main .human-panel__buttons button:hover {
+  background-color: #F3F4F6;
+  text-decoration: none;
+  transition-duration: 0.1s;
+}
+main .human-panel__buttons button:disabled {
+  background-color: #FAFBFC;
+  border-color: rgba(27, 31, 35, 0.15);
+  color: #959DA5;
+  cursor: default;
+}
+main .human-panel__buttons button:active {
+  background-color: #EDEFF2;
+  box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
+  transition: none 0s;
+}
+main .human-panel__buttons button:focus {
+  outline: 1px transparent;
+}
+main .human-panel__buttons button:before {
+  display: none;
+}
+main .human-panel__buttons button::-webkit-details-marker {
+  display: none;
+}
+main .human-panel__buttons button.active {
+  background-color: #2ea44f;
+  color: white;
+}
+main #info-panel {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  z-index: 9;
+  overflow: hidden;
+  background: white;
+  border-top: 1px #c7c7c7 solid;
+}
+main #info-panel > div {
+  height: 100%;
+}
+main #info-panel #google {
+  overflow-y: scroll;
+}
+main #info-panel .google-header {
+  padding-top: 13px;
+  padding-left: 15px;
+}
+main #info-panel .google-header button {
+  appearance: none;
+  background-color: #FAFBFC;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+  box-sizing: border-box;
+  color: #24292E;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  padding: 6px 16px;
+  position: relative;
+  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+  word-wrap: break-word;
+  padding: 3px 10px;
+}
+main #info-panel .google-header button:hover {
+  background-color: #F3F4F6;
+  text-decoration: none;
+  transition-duration: 0.1s;
+}
+main #info-panel .google-header button:disabled {
+  background-color: #FAFBFC;
+  border-color: rgba(27, 31, 35, 0.15);
+  color: #959DA5;
+  cursor: default;
+}
+main #info-panel .google-header button:active {
+  background-color: #EDEFF2;
+  box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
+  transition: none 0s;
+}
+main #info-panel .google-header button:focus {
+  outline: 1px transparent;
+}
+main #info-panel .google-header button:before {
+  display: none;
+}
+main #info-panel .google-header button::-webkit-details-marker {
+  display: none;
+}
+main #info-panel .google-header button.active {
   background-color: #2ea44f;
   color: white;
 }
 main #info-panel iframe {
   width: 100%;
-  height: 95vh;
+  height: 100%;
 }
 main #human-panel {
-  width: 50%;
-  height: 100vh;
-}
-main #human-panel .human-panel__header {
-  height: 5vh;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-}
-main #human-panel .human-panel__header button {
-  appearance: none;
-  background-color: #FAFBFC;
-  border: 1px solid rgba(27, 31, 35, 0.15);
-  border-radius: 6px;
-  box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
-  box-sizing: border-box;
-  color: #24292E;
-  cursor: pointer;
-  display: inline-block;
-  font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 20px;
-  list-style: none;
-  padding: 6px 16px;
-  position: relative;
-  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  vertical-align: middle;
-  white-space: nowrap;
-  word-wrap: break-word;
-}
-main #human-panel .human-panel__header button:hover {
-  background-color: #F3F4F6;
-  text-decoration: none;
-  transition-duration: 0.1s;
-}
-main #human-panel .human-panel__header button:disabled {
-  background-color: #FAFBFC;
-  border-color: rgba(27, 31, 35, 0.15);
-  color: #959DA5;
-  cursor: default;
-}
-main #human-panel .human-panel__header button:active {
-  background-color: #EDEFF2;
-  box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
-  transition: none 0s;
-}
-main #human-panel .human-panel__header button:focus {
-  outline: 1px transparent;
-}
-main #human-panel .human-panel__header button:before {
-  display: none;
-}
-main #human-panel .human-panel__header button::-webkit-details-marker {
-  display: none;
-}
-main #human-panel .human-panel__header button.active {
-  background-color: #2ea44f;
-  color: white;
+  width: 100%;
+  height: 100%;
 }
 main #human-panel iframe#human {
   width: 100%;
-  height: 95vh;
+  height: 100%;
 }
 
 .hidden {
   display: none;
 }
 
-/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=app.css.map */
