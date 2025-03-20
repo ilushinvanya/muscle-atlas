@@ -4,18 +4,20 @@ const femaleId = '5Ac9'
 const maleBtn = document.getElementById('male-btn');
 const femaleBtn = document.getElementById('female-btn');
 
-const wikipediaDomain = 'https://ru.m.wikipedia.org/w/index.php?search=';
-let wikipediaSearchQuery = '%D0%9C%D1%8B%D1%88%D1%86%D1%8B_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0';
-
-const wikipediaFrameEl = document.querySelector('#wikipedia iframe');
-
-function setWikipediaSrc() {
-	wikipediaFrameEl.src = wikipediaDomain + wikipediaSearchQuery;
+let muscle = {
+	ru: {
+		label: '',
+		wiki: ''
+	},
+	en: {
+		label: '',
+		wiki: ''
+	},
+	kenhub: '',
+	physiotherapist: ''
 }
 
-
-function onClickMuscle(muscleId) {
-
+async function onClickMuscle(muscleId) {
 	console.log('scene.objectsSelected event: ', muscleId);
 	let eventName;
 	let eventStatus;
@@ -23,20 +25,19 @@ function onClickMuscle(muscleId) {
 		eventName = key;
 		eventStatus = value;
 	})
-	const reg = new RegExp(/-(\w*)_ID/);
-	const regMatch = eventName.match(reg);
-	const muscle = regMatch[1];
 
-	// console.log(muscle, eventStatus);
-
-	const googleSearchInput = google.search.cse.element.getElement('storesearch');
 	if(eventStatus) {
-		const clearMuscle = muscle.replaceAll('_', ' ');
-		googleSearchInput.execute(clearMuscle + ' ' + currentGoogleSuggestion);
-		wikipediaSearchQuery = clearMuscle;
+		const muscleName = eventName.replaceAll(/(human_17|_male_|_female_|muscular_system-|left_|right_|_ID)/g, '')
+
+		const res = await fetch('./data/muscles/' + muscleName + '.json')
+		muscle = await res.json();
+
+		setGoogleQuery();
 		setWikipediaSrc();
+		setHeaderLabel();
+		setPhysiotherapist();
 	} else {
-		googleSearchInput.clearAllResults();
+		clearGoogleResults();
 	}
 }
 
@@ -88,11 +89,16 @@ const initHuman = (modelId) => {
 	});
 	human.on('scene.objectsSelected', onClickMuscle)
 }
-// initHuman(femaleId);
+initHuman(maleId);
 
 
 
 
+
+
+
+
+// Panels
 const googleBtnEl = document.getElementById('google-btn');
 const wikipediaBtnEl = document.getElementById('wikipedia-btn');
 const physiotherapistBtnEl = document.getElementById('physiotherapist-btn');
@@ -136,7 +142,11 @@ function toggleElement(name, visible) {
 	}
 }
 setPanel('google')
+// END Panels
 
+
+
+// Google
 let currentGoogleSuggestion = ''
 const stretchBtnEl = document.getElementById('stretch-btn');
 const strengtheningBtnEl = document.getElementById('strengthening-btn');
@@ -150,4 +160,135 @@ function setGoogleSuggestion(name) {
 		strengtheningBtnEl.classList.add('active')
 		stretchBtnEl.classList.remove('active')
 	}
+	setGoogleQuery()
 }
+
+function setGoogleQuery() {
+	const googleSearchInput = google.search.cse.element.getElement('storesearch');
+	const suggestionText = buttonsText[currentGoogleSuggestion] ? buttonsText[currentGoogleSuggestion][language].replace(/[^a-zA-Zа-яА-Я]*/, '') : '';
+	googleSearchInput.execute(suggestionText + ' ' + muscle[language].label);
+}
+function clearGoogleResults() {
+	const googleSearchInput = google.search.cse.element.getElement('storesearch');
+	googleSearchInput.clearAllResults();
+}
+// End Google
+
+
+
+// Language
+let language = 'en';
+const enBtnEl = document.getElementById('en-btn');
+const ruBtnEl = document.getElementById('ru-btn');
+function setLanguage(lang) {
+	language = lang;
+	setButtonsTexts()
+	if(muscle[language].wiki) {
+		setWikipediaSrc()
+	}
+	if(muscle[language].label) {
+		setGoogleQuery()
+		setHeaderLabel()
+	}
+	if(language === 'ru') {
+		ruBtnEl.classList.add('active')
+		enBtnEl.classList.remove('active')
+	}
+	if(language === 'en') {
+		enBtnEl.classList.add('active')
+		ruBtnEl.classList.remove('active')
+	}
+}
+// End Language
+
+
+
+
+
+
+
+// Title and Buttons
+const headerLabelEl = document.querySelector('#muscle-name');
+function setHeaderLabel() {
+	headerLabelEl.innerHTML = muscle[language].label;
+}
+
+const buttonsText = {
+	male: {
+		ru: '🧔🏻‍♂️ Мужчина',
+		en: '🧔🏻‍♂️ Male',
+	},
+	female: {
+		ru: '👩🏼 Женщина',
+		en: '👩🏼 Female',
+	},
+	stretch: {
+		ru: '🤸‍♀️ Растяжка',
+		en: '🤸‍♀️ Stretch',
+	},
+	strengthening: {
+		ru: '🏋️ Укрепление',
+		en: '🏋️ Strengthening',
+	}
+}
+function setButtonsTexts() {
+	stretchBtnEl.innerHTML = buttonsText.stretch[language];
+	strengtheningBtnEl.innerHTML = buttonsText.strengthening[language]
+	maleBtn.innerHTML = buttonsText.male[language]
+	femaleBtn.innerHTML = buttonsText.female[language]
+}
+setButtonsTexts()
+setLanguage(language)
+// End Title and Buttons
+
+
+
+
+
+
+
+
+
+
+
+// Physiotherapist
+const physiotherapistFrameEl = document.querySelector('#physiotherapist iframe');
+function setPhysiotherapist() {
+	const musclePhysiotherapist = muscle.physiotherapist;
+	if(musclePhysiotherapist) {
+		physiotherapistFrameEl.src = 'https://physiotherapist.ru/muscles/' + musclePhysiotherapist;
+		physiotherapistBtnEl.classList.remove('hidden')
+	}
+	else {
+		physiotherapistBtnEl.classList.add('hidden')
+		setPanel('google')
+	}
+}
+// End Physiotherapist
+
+
+
+
+
+
+// Wiki
+const wikipediaFrameEl = document.querySelector('#wikipedia iframe');
+function setWikipediaSrc() {
+	const muscleWiki = muscle[language].wiki;
+	if(muscleWiki) {
+		wikipediaFrameEl.src = 'https://' + language + '.m.wikipedia.org/wiki/' + muscleWiki;
+		wikipediaBtnEl.classList.remove('hidden')
+	}
+	else {
+		wikipediaBtnEl.classList.add('hidden')
+		setPanel('google')
+	}
+}
+
+const initWikiUrls = {
+	ru: 'Мышечная_система',
+	en: 'Muscular_system'
+}
+
+wikipediaFrameEl.src = 'https://' + language + '.m.wikipedia.org/wiki/' + initWikiUrls[language];
+// End Wiki

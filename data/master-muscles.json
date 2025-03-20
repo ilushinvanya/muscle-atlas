@@ -1,0 +1,3267 @@
+{
+	"abductor_digiti_minimi": {
+		"ru": {
+			"label": "Мышца, отводящая мизинец",
+			"wiki": "%D0%9C%D1%8B%D1%88%D1%86%D0%B0,_%D0%BE%D1%82%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%BC%D0%B8%D0%B7%D0%B8%D0%BD%D0%B5%D1%86"
+		},
+		"en": {
+			"label": "Abductor digiti minimi muscle of the hand",
+			"wiki": "Abductor_digiti_minimi_muscle_of_the_hand"
+		},
+		"kenhub": "abductor-digiti-minimi-muscle-of-hand",
+		"physiotherapist": "abductor-digiti-minimi-hand"
+	},
+	"abductor_digiti_minimi_of_foot": {
+		"ru": {
+			"label": "Мышца, отводящая мизинец стопы",
+			"wiki": "%D0%9C%D1%8B%D1%88%D1%86%D0%B0,_%D0%BE%D1%82%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%BC%D0%B8%D0%B7%D0%B8%D0%BD%D0%B5%D1%86_%D1%81%D1%82%D0%BE%D0%BF%D1%8B"
+		},
+		"en": {
+			"label": "Abductor digiti minimi muscle of foot",
+			"wiki": "Abductor_digiti_minimi_muscle_of_foot"
+		},
+		"kenhub": "abductor-digiti-minimi-muscle",
+		"physiotherapist": "abductor-digiti-minimi-foot"
+	},
+	"abductor_hallucis": {
+		"ru": {
+			"label": "Мышца, отводящая большой палец стопы",
+			"wiki": "%D0%9C%D1%8B%D1%88%D1%86%D0%B0,_%D0%BE%D1%82%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B5%D1%86_%D1%81%D1%82%D0%BE%D0%BF%D1%8B"
+		},
+		"en": {
+			"label": "Abductor hallucis muscle",
+			"wiki": "Abductor_hallucis_muscle"
+		},
+		"kenhub": "abductor-hallucis-muscle",
+		"physiotherapist": "abductor-hallucis"
+	},
+	"abductor_pollicis_brevis": {
+		"ru": {
+			"label": "Короткая мышца, отводящая большой палец кисти",
+			"wiki": "%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0,_%D0%BE%D1%82%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B5%D1%86_%D0%BA%D0%B8%D1%81%D1%82%D0%B8"
+		},
+		"en": {
+			"label": "Abductor pollicis brevis muscle",
+			"wiki": "Abductor_pollicis_brevis_muscle"
+		},
+		"kenhub": "abductor-pollicis-brevis-muscle",
+		"physiotherapist": "abductor-pollicis-brevis"
+	},
+	"abductor_pollicis_longus": {
+		"ru": {
+			"label": "Длинная мышца, отводящая большой палец кисти",
+			"wiki": "%D0%94%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0,_%D0%BE%D1%82%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B5%D1%86_%D0%BA%D0%B8%D1%81%D1%82%D0%B8"
+		},
+		"en": {
+			"label": "Abductor pollicis longus muscle",
+			"wiki": "Abductor_pollicis_longus_muscle"
+		},
+		"kenhub": "abductor-pollicis-longus-muscle",
+		"physiotherapist": "abductor-pollicis-longus"
+	},
+	"adductor_brevis": {
+		"ru": {
+			"label": "Короткая приводящая мышца",
+			"wiki": "%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
+		},
+		"en": {
+			"label": "Adductor brevis muscle",
+			"wiki": "Adductor_brevis_muscle"
+		},
+		"kenhub": "adductor-brevis-muscle",
+		"physiotherapist": "adductor-brevis"
+	},
+	"adductor_hallucis_oblique_head": {
+		"ru": {
+			"label": "Головка косой приводящей мышцы большого пальца стопы",
+			"wiki": "%D0%9C%D1%8B%D1%88%D1%86%D0%B0,_%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B5%D1%86_%D1%81%D1%82%D0%BE%D0%BF%D1%8B"
+		},
+		"en": {
+			"label": "Oblique head of adductor hallucis",
+			"wiki": "Adductor_hallucis_muscle"
+		},
+		"kenhub": "adductor-hallucis-muscle",
+		"physiotherapist": "adductor-hallucis"
+	},
+	"adductor_hallucis_transverse_head": {
+		"ru": {
+			"label": "Поперечная головка приводящей мышцы большого пальца стопы",
+			"wiki": "%D0%9C%D1%8B%D1%88%D1%86%D0%B0,_%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B5%D1%86_%D1%81%D1%82%D0%BE%D0%BF%D1%8B"
+		},
+		"en": {
+			"label": "Transverse head of adductor hallucis",
+			"wiki": "Adductor_hallucis_muscle"
+		},
+		"kenhub": "adductor-hallucis-muscle",
+		"physiotherapist": "adductor-hallucis"
+	},
+	"adductor_longus": {
+		"ru": {
+			"label": "Длинная приводящая мышца",
+			"wiki": "%D0%94%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
+		},
+		"en": {
+			"label": "Adductor longus muscle",
+			"wiki": "Adductor_longus_muscle"
+		},
+		"kenhub": "adductor-longus-muscle",
+		"physiotherapist": "adductor-longus"
+	},
+	"adductor_magnus": {
+		"ru": {
+			"label": "Большая приводящая мышца",
+			"wiki": "%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
+		},
+		"en": {
+			"label": "Adductor magnus muscle",
+			"wiki": "Adductor_magnus_muscle"
+		},
+		"kenhub": "adductor-magnus",
+		"physiotherapist": "adductor-magnus"
+	},
+	"adductor_minimus": {
+		"ru": {
+			"label": "Малая приводящая мышца",
+			"wiki": ""
+		},
+		"en": {
+			"label": "Adductor minimus muscle",
+			"wiki": "Adductor_minimus_muscle"
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"adductor_pollicis": {
+		"ru": {
+			"label": "Мышца, приводящая большой палец кисти",
+			"wiki": "%D0%9C%D1%8B%D1%88%D1%86%D0%B0,_%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B5%D1%86_%D0%BA%D0%B8%D1%81%D1%82%D0%B8"
+		},
+		"en": {
+			"label": "Adductor pollicis muscle",
+			"wiki": "Adductor_pollicis_muscle"
+		},
+		"kenhub": "adductor-pollicis-muscle",
+		"physiotherapist": "adductor-pollicis"
+	},
+	"anconeus": {
+		"ru": {
+			"label": "Локтевая мышца",
+			"wiki": "%D0%9B%D0%BE%D0%BA%D1%82%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
+		},
+		"en": {
+			"label": "Anconeus muscle",
+			"wiki": "Anconeus_muscle"
+		},
+		"kenhub": "anconeus-muscle",
+		"physiotherapist": "anconeus"
+	},
+	"anterior_belly_of_digastric_muscle": {
+		"ru": {
+			"label": "Переднее брюшко двубрюшной мышцы",
+			"wiki": "%D0%94%D0%B2%D1%83%D0%B1%D1%80%D1%8E%D1%88%D0%BD%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
+		},
+		"en": {
+			"label": "Anterior belly of the digastric muscle",
+			"wiki": "Digastric_muscle"
+		},
+		"kenhub": "digastric-muscle",
+		"physiotherapist": "digastric-muscle"
+	},
+	"anterior_cervical_intertransversarii": {
+		"ru": {
+			"label": "Передние шейные межпоперечные",
+			"wiki": "%D0%9C%D0%B5%D0%B6%D0%BF%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%B5_%D0%BC%D1%8B%D1%88%D1%86%D1%8B"
+		},
+		"en": {
+			"label": "Anterior cervical intertransverse",
+			"wiki": "Intertransversarii"
+		},
+		"kenhub": "",
+		"physiotherapist": "intertransversarii-muscles"
+	},
+	"anterior_scalene": {
+		"ru": {
+			"label": "Передняя лестничная мышца",
+			"wiki": "%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BB%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
+		},
+		"en": {
+			"label": "Anterior scalene muscle",
+			"wiki": "Scalene_muscles"
+		},
+		"kenhub": "scalene-muscles",
+		"physiotherapist": "anterior-scalene"
+	},
+	"antitragicus": {
+		"ru": {
+			"label": "Антитрагикус",
+			"wiki": ""
+		},
+		"en": {
+			"label": "Antitragicus",
+			"wiki": "Antitragicus"
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"articularis_genus": {
+		"ru": {
+			"label": "Суставная мышца колена",
+			"wiki": "%D0%A1%D1%83%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0_%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0"
+		},
+		"en": {
+			"label": "Articularis genus muscle",
+			"wiki": "Articularis_genus_muscle"
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"aryepiglotticus": {
+		"ru": {
+			"label": "Черпалонадгортанная мышца",
+			"wiki": ""
+		},
+		"en": {
+			"label": "Aryepiglottic muscle",
+			"wiki": "Aryepiglottic_muscle"
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"auricularis_anterior": {
+		"ru": {
+			"label": "Передняя ушная мышца",
+			"wiki": "%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D1%83%D1%88%D0%BD%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
+		},
+		"en": {
+			"label": "Anterior auricular muscle",
+			"wiki": "Anterior_auricular_muscle"
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"auricularis_posterior": {
+		"ru": {
+			"label": "Задняя ушная мышца",
+			"wiki": "%D0%97%D0%B0%D0%B4%D0%BD%D1%8F%D1%8F_%D1%83%D1%88%D0%BD%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
+		},
+		"en": {
+			"label": "Posterior auricular muscle",
+			"wiki": "Posterior_auricular_muscle"
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"auricularis_superior": {
+		"ru": {
+			"label": "Верхняя ушная мышца",
+			"wiki": "%D0%92%D0%B5%D1%80%D1%85%D0%BD%D1%8F%D1%8F_%D1%83%D1%88%D0%BD%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
+		},
+		"en": {
+			"label": "Superior auricular muscle",
+			"wiki": "Superior_auricular_muscle"
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+
+	"biceps_brachii": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"biceps_femoris": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"bicipital_aponeurosis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"brachialis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"brachioradialis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"buccal_fat_pad": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"buccinator": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"bulbospongiosus_muscle": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"calcaneal_tendon": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"coccygeus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"coracobrachialis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"corrugator_supercilii": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"cremaster": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"deep_head_medial_pterygoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"deep_transverse_perineal_muscle": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"deltoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"depressor_anguli_oris": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"depressor_labii_inferioris": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"depressor_septi_nasi": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"depressor_supercilii": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_carpi_radialis_brevis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_carpi_radialis_longus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_carpi_ulnaris": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_digiti_minimi": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_digitorum": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_digitorum_brevis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_digitorum_longus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_hallucis_brevis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_hallucis_longus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_indicis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_pollicis_brevis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"extensor_pollicis_longus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"external_intercostals": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"external_oblique": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"fibrous_loop_for_intermediate_digastric_tendon": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"fibularis_brevis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"fibularis_longus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"fibularis_tertius": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"first_dorsal_interosseous_muscle_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"first_dorsal_interosseus_muscle_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"first_lumbrical_muscle_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"first_lumbrical_muscle_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"first_palmar_interosseous_muscle_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"first_plantar_interosseous_muscle_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"flexor_carpi_radialis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"flexor_carpi_ulnaris": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"flexor_digiti_minimi_brevis_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"flexor_digiti_minimi_brevis_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"flexor_digitorum_brevis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"flexor_digitorum_longus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"flexor_digitorum_profundus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"flexor_digitorum_superficialis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"flexor_hallucis_longus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"flexor_pollicis_brevis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"flexor_pollicis_longus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"fourth_dorsal_interosseous_muscle_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"fourth_dorsal_interosseus_muscle_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"fourth_lumbrical_muscle_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"fourth_lumbrical_muscle_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"frontalis": {
+		"ru": {
+			"label": "Лобная мышца",
+			"wiki": ""
+		},
+		"en": {
+			"label": "Frontal muscle",
+			"wiki": "Frontalis_muscle"
+		},
+		"kenhub": "frontalis-muscle",
+		"physiotherapist": ""
+	},
+	"genioglossus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"geniohyoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"glossopharyngeal_part_of_superior_pharyngeal_constrictor": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"gluteus_maximus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"gluteus_medius": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"gluteus_minimus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"gracilis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"helicis_major": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"helicis_minor": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"hyoglossus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"iliacus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"iliococcygeus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"iliocostalis_cervicis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"iliocostalis_lumborum": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"iliocostalis_thoracis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"iliotibial_tract": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"inferior_belly_of_omohyoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"inferior_gemellus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"inferior_lateral_pterygoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"inferior_oblique": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"inferior_oblique_part_of_longus_colli": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"inferior_pharyngeal_constrictor": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"inferior_rectus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"inferior_tarsal": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"infraspinatus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"inguinal_falx": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"innermost_intercostals": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"internal_intercostals": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"internal_oblique": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"interspinales": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"intertransversarii_laterales_lumborum": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"intertransversarii_mediales_lumborum": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"ischiocavernosus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"lateral_cricoarytenoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"lateral_head_of_flexor_hallucis_brevis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"lateral_head_of_gastrocnemius": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"lateral_posterior_cervical_intertransversarii": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"lateral_rectus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"latissimus_dorsi": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"levator_anguli_oris": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"levator_labii_superioris": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"levator_labii_superioris_alaeque_nasi": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"levator_palpebrae_superioris": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"levator_scapulae": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"levator_veli_palatini": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"levatores_costarum": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"longissimus_capitis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"longissimus_cervicis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"longissimus_thoracis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"longus_capitis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"lower_part_of_cricopharyngeus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"lumbar_intertransversarii": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"masseter": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"medial_head_of_flexor_hallucis_brevis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"medial_head_of_gastrocnemius": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"medial_rectus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"mentalis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"middle_pharyngeal_constrictor": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"middle_scalene": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"multifidus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"musculus_uvulae": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"mylohyoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"nasalis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"oblique_arytenoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"oblique_muscle_of_auricle": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"oblique_part_of_cricothyroid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"obliquus_capitis_inferior": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"obliquus_capitis_superior": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"obturator_externus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"obturator_internus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"occipitalis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"opponens_digiti_minimi": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"opponens_pollicis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"orbicularis_oculi": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"palatoglossus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"palatopharyngeus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"palmaris_brevis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"palmaris_longus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"pectineus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"pectoralis_major": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"pectoralis_minor": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"pharyngeal_raphe": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"piriformis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"plantaris": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"platysma": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"popliteus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"posterior_belly_of_digastric_muscle": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"posterior_cricoarytenoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"posterior_scalene": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"procerus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"pronator_quadratus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"pronator_teres": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"psoas_major": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"psoas_minor": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"pterygomandibular_raphe": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"pubococcygeus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"puborectalis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"pyramidalis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"quadratus_femoris": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"quadratus_lumborum": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"quadratus_plantae": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"quadriceps_femoris_tendon": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"rectus_abdominis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"rectus_capitis_anterior": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"rectus_capitis_lateralis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"rectus_capitis_posterior_major": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"rectus_capitis_posterior_minor": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"rectus_femoris": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"rhomboid_major": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"rhomboid_minor": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"risorius": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"rotatores_cervicis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"rotatores_lumborum": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"rotatores_thoracis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"salpingopharyngeus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"sartorius": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"second_dorsal_interosseous_muscle_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"second_dorsal_interosseus_muscle_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"second_lumbrical_muscle_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"second_lumbrical_muscle_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"second_palmar_interosseous_muscle_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"second_plantar_interosseous_muscle_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"semimembranosus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"semispinalis_capitis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"semispinalis_cervicis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"semispinalis_thoracis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"semitendinosus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"serratus_anterior": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"serratus_posterior_inferior": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"serratus_posterior_superior": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"soleus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"spinalis_cervicis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"spinalis_thoracis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"splenius_capitis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"splenius_cervicis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"sternocleidomastoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"sternohyoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"sternothyroid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"styloglossus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"stylohyoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"stylopharyngeus_muscle": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"subclavius": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"subcostales": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"subscapularis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"superficial_head_medial_pterygoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"superficial_transverse_perineal_muscle": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"superior_belly_of_omohyoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"superior_gemellus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"superior_lateral_pterygoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"superior_oblique": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"superior_oblique_part_of_longus_colli": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"superior_pharyngeal_constrictor": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"superior_rectus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"superior_tarsal": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"supinator": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"supraspinatus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"temporalis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"temporoparietalis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"tensor_fasciae_latae": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"tensor_tympani": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"tensor_veli_palatini": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"teres_major": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"teres_minor": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"third_dorsal_interosseous_muscle_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"third_dorsal_interosseus_muscle_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"third_lumbrical_muscle_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"third_lumbrical_muscle_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"third_palmar_interosseous_muscle_of_hand": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"third_plantar_interosseous_muscle_of_foot": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"thoracic_intertransversarii": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"thyroarytenoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"thyroepiglotticus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"thyrohyoid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"tibialis_anterior": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"tibialis_posterior": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"tragicus": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"transverse_abdominis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"transverse_muscle_of_auricle": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"transversus_nuchae": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"transversus_thoracis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"trapezius": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"triceps_brachii": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"vastus_intermedius": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"vastus_lateralis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"vastus_medialis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"vertical_intermediate_part_of_longus_colli": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"vertical_part_of_cricothyroid": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"vocalis": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"zygomaticus_major": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	},
+	"zygomaticus_minor": {
+		"ru": {
+			"label": "",
+			"wiki": ""
+		},
+		"en": {
+			"label": "",
+			"wiki": ""
+		},
+		"kenhub": "",
+		"physiotherapist": ""
+	}
+}
