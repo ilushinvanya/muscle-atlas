@@ -55,7 +55,7 @@
   }
 
   &.active {
-    background-color: #2ea44f;
+    background-color: #e94e4c;
     color: white;
   }
 }
@@ -86,6 +86,7 @@ main {
       display: flex;
       align-items: center;
       justify-content: space-between;
+      padding: 0 15px;
 
       button {
         @include header-button
@@ -107,10 +108,7 @@ main {
       display: flex;
       align-items: center;
       justify-content: space-between;
-    }
-
-    &__label {
-      padding-left: 10px;
+      padding: 0 15px 0 5px;
     }
 
     &__buttons {

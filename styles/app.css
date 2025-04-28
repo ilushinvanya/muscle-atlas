@@ -23,6 +23,7 @@ main .info-panel__header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 0 15px;
 }
 main .info-panel__header button {
   appearance: none;
@@ -75,7 +76,7 @@ main .info-panel__header button::-webkit-details-marker {
   display: none;
 }
 main .info-panel__header button.active {
-  background-color: #2ea44f;
+  background-color: #e94e4c;
   color: white;
 }
 main .info-panel__language-buttons button {
@@ -88,9 +89,7 @@ main .human-panel__header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
-main .human-panel__label {
-  padding-left: 10px;
+  padding: 0 15px 0 5px;
 }
 main .human-panel__buttons button {
   appearance: none;
@@ -143,7 +142,7 @@ main .human-panel__buttons button::-webkit-details-marker {
   display: none;
 }
 main .human-panel__buttons button.active {
-  background-color: #2ea44f;
+  background-color: #e94e4c;
   color: white;
 }
 main #info-panel {
@@ -217,7 +216,7 @@ main #info-panel .google-header button::-webkit-details-marker {
   display: none;
 }
 main #info-panel .google-header button.active {
-  background-color: #2ea44f;
+  background-color: #e94e4c;
   color: white;
 }
 main #info-panel iframe {

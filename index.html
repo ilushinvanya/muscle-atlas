@@ -13,30 +13,29 @@
 <main>
     <div class="info-panel__header">
         <div class="info-panel__panel-buttons">
-            <button id="google-btn" onclick="setPanel('google')">Google</button>
-            <button id="wikipedia-btn" onclick="setPanel('wikipedia')">Wikipedia</button>
-            <button id="physiotherapist-btn" onclick="setPanel('physiotherapist')">Physiotherapist.ru</button>
+            <button id="google-btn" onclick="atlas.setPanel('google')">Google</button>
+            <button id="wikipedia-btn" onclick="atlas.setPanel('wikipedia')">Wikipedia</button>
+            <button id="physiotherapist-btn" onclick="atlas.setPanel('physiotherapist')">Physiotherapist.ru</button>
         </div>
         <div class="info-panel__language-buttons">
-            <button id="en-btn" onclick="setLanguage('en')">🇬🇧</button>
-            <button id="ru-btn" onclick="setLanguage('ru')">🇷🇺</button>
+            <button id="en-btn" onclick="atlas.setLanguage('en')">🇬🇧</button>
+            <button id="ru-btn" onclick="atlas.setLanguage('ru')">🇷🇺</button>
         </div>
     </div>
     <div class="human-panel__header">
         <div id="muscle-name" class="human-panel__label"></div>
         <div class="human-panel__buttons">
-            <button id="male-btn" onclick="initHuman(maleId)"></button>
-            <button id="female-btn" onclick="initHuman(femaleId)"></button>
+            <button id="male-btn" onclick="atlas.initHuman(maleId)"></button>
+            <button id="female-btn" onclick="atlas.initHuman(femaleId)"></button>
         </div>
     </div>
     <div id="info-panel">
         <div id="google">
             <div class="google-header">
-                <button id="stretch-btn" onclick="setGoogleSuggestion('stretch')"></button>
-                <button id="strengthening-btn" onclick="setGoogleSuggestion('strengthening')"></button>
+                <button id="stretch-btn" onclick="atlas.setGoogleSuggestion('stretch')"></button>
+                <button id="strengthening-btn" onclick="atlas.setGoogleSuggestion('strengthening')"></button>
             </div>
             <div class="gcse-search"
-                 data-defaultToImageSearch="true"
                  data-gname="storesearch"
                  data-autoSearchOnLoad="false"
                  data-enableHistory="false"

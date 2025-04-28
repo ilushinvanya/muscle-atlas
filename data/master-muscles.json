@@ -360,6 +360,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"calcaneal_tendon": {
 		"ru": {
 			"label": "",
@@ -420,6 +421,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"deep_head_medial_pterygoid": {
 		"ru": {
 			"label": "",
@@ -504,6 +506,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"extensor_carpi_radialis_brevis": {
 		"ru": {
 			"label": "",
@@ -672,6 +675,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"fibrous_loop_for_intermediate_digastric_tendon": {
 		"ru": {
 			"label": "",
@@ -984,6 +988,7 @@
 		"kenhub": "frontalis-muscle",
 		"physiotherapist": ""
 	},
+
 	"genioglossus": {
 		"ru": {
 			"label": "",
@@ -1068,6 +1073,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"helicis_major": {
 		"ru": {
 			"label": "",
@@ -1104,6 +1110,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"iliacus": {
 		"ru": {
 			"label": "",
@@ -1380,6 +1387,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"lateral_cricoarytenoid": {
 		"ru": {
 			"label": "",
@@ -1608,6 +1616,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"masseter": {
 		"ru": {
 			"label": "",
@@ -1728,6 +1737,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"nasalis": {
 		"ru": {
 			"label": "",
@@ -1740,6 +1750,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"oblique_arytenoid": {
 		"ru": {
 			"label": "",
@@ -1872,6 +1883,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"palatoglossus": {
 		"ru": {
 			"label": "",
@@ -2160,6 +2172,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"quadratus_femoris": {
 		"ru": {
 			"label": "",
@@ -2208,6 +2221,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"rectus_abdominis": {
 		"ru": {
 			"label": "",
@@ -2352,6 +2366,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"salpingopharyngeus": {
 		"ru": {
 			"label": "",
@@ -2856,6 +2871,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"temporalis": {
 		"ru": {
 			"label": "",
@@ -3168,6 +3184,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"vastus_intermedius": {
 		"ru": {
 			"label": "",
@@ -3240,6 +3257,7 @@
 		"kenhub": "",
 		"physiotherapist": ""
 	},
+
 	"zygomaticus_major": {
 		"ru": {
 			"label": "",
