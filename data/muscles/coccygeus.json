@@ -1,12 +1,12 @@
 {
 	"ru": {
-		"label": "",
+		"label": "Копчиковая мышца",
 		"wiki": ""
 	},
 	"en": {
-		"label": "",
-		"wiki": ""
+		"label": "Coccygeus muscle",
+		"wiki": "Coccygeus_muscle"
 	},
-	"kenhub": "",
-	"physiotherapist": ""
+	"kenhub": "https://www.kenhub.com/en/library/anatomy/coccygeus-muscle",
+	"physiotherapist": "coccygeus"
 }

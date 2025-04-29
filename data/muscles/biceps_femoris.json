@@ -1,12 +1,12 @@
 {
 	"ru": {
-		"label": "",
-		"wiki": ""
+		"label": "Двуглавая мышца бедра",
+		"wiki": "%D0%94%D0%B2%D1%83%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0_%D0%B1%D0%B5%D0%B4%D1%80%D0%B0"
 	},
 	"en": {
-		"label": "",
-		"wiki": ""
+		"label": "Biceps femoris muscle",
+		"wiki": "Biceps_femoris_muscle"
 	},
-	"kenhub": "",
-	"physiotherapist": ""
+	"kenhub": "biceps-femoris-muscle",
+	"physiotherapist": "biceps-femoris"
 }

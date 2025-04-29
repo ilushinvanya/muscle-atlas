@@ -266,159 +266,147 @@
 
 	"biceps_brachii": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Двуглавая мышца плеча",
+			"wiki": "%D0%94%D0%B2%D1%83%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0_%D0%BF%D0%BB%D0%B5%D1%87%D0%B0"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Biceps brachii",
+			"wiki": "Biceps"
 		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"kenhub": "biceps-brachii-muscle",
+		"physiotherapist": "biceps-brachii"
 	},
 	"biceps_femoris": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Двуглавая мышца бедра",
+			"wiki": "%D0%94%D0%B2%D1%83%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0_%D0%B1%D0%B5%D0%B4%D1%80%D0%B0"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Biceps femoris muscle",
+			"wiki": "Biceps_femoris_muscle"
 		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"kenhub": "biceps-femoris-muscle",
+		"physiotherapist": "biceps-femoris"
 	},
 	"bicipital_aponeurosis": {
 		"ru": {
-			"label": "",
+			"label": "Двуглавый апоневроз",
 			"wiki": ""
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Bicipital aponeurosis",
+			"wiki": "Bicipital_aponeurosis"
 		},
-		"kenhub": "",
+		"kenhub": "bicipital-aponeurosis",
 		"physiotherapist": ""
 	},
 	"brachialis": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Плечевая мышца",
+			"wiki": "%D0%9F%D0%BB%D0%B5%D1%87%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Brachialis muscle",
+			"wiki": "Brachialis_muscle"
 		},
 		"kenhub": "",
-		"physiotherapist": ""
+		"physiotherapist": "brachialis"
 	},
 	"brachioradialis": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Плечелучевая мышца",
+			"wiki": "%D0%9F%D0%BB%D0%B5%D1%87%D0%B5%D0%BB%D1%83%D1%87%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Brachioradialis",
+			"wiki": "Brachioradialis"
 		},
 		"kenhub": "",
-		"physiotherapist": ""
-	},
-	"buccal_fat_pad": {
-		"ru": {
-			"label": "",
-			"wiki": ""
-		},
-		"en": {
-			"label": "",
-			"wiki": ""
-		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"physiotherapist": "brachioradialis"
 	},
 	"buccinator": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Щёчная мышца",
+			"wiki": "%D0%A9%D1%91%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Bucinator muscle",
+			"wiki": "Bucinator_muscle"
 		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"kenhub": "https://www.kenhub.com/en/library/anatomy/buccinator-muscle",
+		"physiotherapist": "buccinator"
 	},
 	"bulbospongiosus_muscle": {
 		"ru": {
-			"label": "",
+			"label": "Бульбоспонгиозная мышца",
 			"wiki": ""
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Bulbospongiosus muscle",
+			"wiki": "Bulbospongiosus_muscle"
 		},
-		"kenhub": "",
+		"kenhub": "https://www.kenhub.com/en/library/anatomy/bulbospongiosus-muscle",
 		"physiotherapist": ""
 	},
 
 	"calcaneal_tendon": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Ахиллово сухожилие",
+			"wiki": "%D0%90%D1%85%D0%B8%D0%BB%D0%BB%D0%BE%D0%B2%D0%BE_%D1%81%D1%83%D1%85%D0%BE%D0%B6%D0%B8%D0%BB%D0%B8%D0%B5"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Achilles tendon",
+			"wiki": "Achilles_tendon"
 		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"kenhub": "https://www.kenhub.com/en/library/anatomy/achilles-tendon",
+		"physiotherapist": "achilles-tendon"
 	},
 	"coccygeus": {
 		"ru": {
-			"label": "",
+			"label": "Копчиковая мышца",
 			"wiki": ""
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Coccygeus muscle",
+			"wiki": "Coccygeus_muscle"
 		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"kenhub": "https://www.kenhub.com/en/library/anatomy/coccygeus-muscle",
+		"physiotherapist": "coccygeus"
 	},
 	"coracobrachialis": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Клювовидно-плечевая мышца",
+			"wiki": "%D0%9A%D0%BB%D1%8E%D0%B2%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE-%D0%BF%D0%BB%D0%B5%D1%87%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Coracobrachialis muscle",
+			"wiki": "Coracobrachialis_muscle"
 		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"kenhub": "https://www.kenhub.com/en/library/anatomy/coracobrachialis-muscle",
+		"physiotherapist": "coracobrachialis-muscle"
 	},
 	"corrugator_supercilii": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Мышца, сморщивающая бровь",
+			"wiki": "%D0%9C%D1%8B%D1%88%D1%86%D0%B0,_%D1%81%D0%BC%D0%BE%D1%80%D1%89%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%B1%D1%80%D0%BE%D0%B2%D1%8C"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Corrugator supercilii muscle",
+			"wiki": "Corrugator_supercilii_muscle"
 		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"kenhub": "https://www.kenhub.com/en/library/anatomy/corrugator-supercilii-muscle",
+		"physiotherapist": "corrugator-supercilii"
 	},
 	"cremaster": {
 		"ru": {
-			"label": "",
+			"label": "Кремастерная мышца",
 			"wiki": ""
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Cremaster muscle",
+			"wiki": "Cremaster_muscle"
 		},
-		"kenhub": "",
+		"kenhub": "https://www.kenhub.com/en/library/anatomy/cremaster-muscle",
 		"physiotherapist": ""
 	},
 

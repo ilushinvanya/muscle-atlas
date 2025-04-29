@@ -1,12 +1,12 @@
 {
 	"ru": {
-		"label": "",
-		"wiki": ""
+		"label": "Ахиллово сухожилие",
+		"wiki": "%D0%90%D1%85%D0%B8%D0%BB%D0%BB%D0%BE%D0%B2%D0%BE_%D1%81%D1%83%D1%85%D0%BE%D0%B6%D0%B8%D0%BB%D0%B8%D0%B5"
 	},
 	"en": {
-		"label": "",
-		"wiki": ""
+		"label": "Achilles tendon",
+		"wiki": "Achilles_tendon"
 	},
-	"kenhub": "",
-	"physiotherapist": ""
+	"kenhub": "https://www.kenhub.com/en/library/anatomy/achilles-tendon",
+	"physiotherapist": "achilles-tendon"
 }
