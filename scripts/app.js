@@ -263,8 +263,16 @@ class Atlas {
             this.wikipediaBtnEl.classList.remove('hidden');
         }
         else {
-            this.wikipediaBtnEl.classList.add('hidden');
-            this.setPanel('google');
+            const otherLanguage = this.language === 'en' ? 'ru' : 'en';
+            const otherLanguageMuscleWiki = this.muscle[otherLanguage].wiki;
+            if(otherLanguageMuscleWiki) {
+                this.wikipediaFrameEl.src = 'https://' + otherLanguage + '.m.wikipedia.org/wiki/' + otherLanguageMuscleWiki;
+                this.wikipediaBtnEl.classList.remove('hidden');
+            }
+            else {
+                this.wikipediaBtnEl.classList.add('hidden');
+                this.setPanel('google');
+            }
         }
     }
 
