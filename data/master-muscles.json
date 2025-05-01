@@ -412,84 +412,84 @@
 
 	"deep_head_medial_pterygoid": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Глубокая головка медиальной крыловидной мышцы",
+			"wiki": "%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D1%80%D1%8B%D0%BB%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Deep head of medial pterygoid muscle",
+			"wiki": "Medial_pterygoid_muscle"
 		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"kenhub": "https://www.kenhub.com/en/library/anatomy/medial-pterygoid-muscle",
+		"physiotherapist": "medial-pterygoid"
 	},
 	"deep_transverse_perineal_muscle": {
 		"ru": {
-			"label": "",
+			"label": "Глубокая поперечная мышца промежности",
 			"wiki": ""
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Deep transverse perineal muscle",
+			"wiki": "Transverse_perineal_muscles"
 		},
 		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"deltoid": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Дельтовидная мышца",
+			"wiki": "%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%86%D0%B0"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Deltoid muscle",
+			"wiki": "Deltoid_muscle"
 		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"kenhub": "https://www.kenhub.com/en/library/anatomy/the-deltoid-muscle",
+		"physiotherapist": "deltoid"
 	},
 	"depressor_anguli_oris": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Мышца, опускающая угол рта",
+			"wiki": "%D0%9C%D1%8B%D1%88%D1%86%D0%B0,_%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%83%D0%B3%D0%BE%D0%BB_%D1%80%D1%82%D0%B0"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Depressor anguli oris muscle",
+			"wiki": "Depressor_anguli_oris_muscle"
 		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"kenhub": "https://www.kenhub.com/en/library/anatomy/depressor-anguli-oris-muscle",
+		"physiotherapist": "depressor-anguli-oris"
 	},
 	"depressor_labii_inferioris": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Мышца, опускающая нижнюю губу",
+			"wiki": "%D0%9C%D1%8B%D1%88%D1%86%D0%B0,_%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BD%D0%B8%D0%B6%D0%BD%D1%8E%D1%8E_%D0%B3%D1%83%D0%B1%D1%83"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Depressor labii inferioris muscle",
+			"wiki": "Depressor_labii_inferioris_muscle"
 		},
-		"kenhub": "",
-		"physiotherapist": ""
+		"kenhub": "https://www.kenhub.com/en/library/anatomy/depressor-labii-inferioris-muscle",
+		"physiotherapist": "depressor-labii-inferioris"
 	},
 	"depressor_septi_nasi": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Мышца, опускающая перегородку носа",
+			"wiki": "%D0%9C%D1%8B%D1%88%D1%86%D0%B0,_%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BA%D1%83_%D0%BD%D0%BE%D1%81%D0%B0"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Depressor septi nasi muscle",
+			"wiki": "Depressor_septi_nasi_muscle"
 		},
 		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"depressor_supercilii": {
 		"ru": {
-			"label": "",
-			"wiki": ""
+			"label": "Мышца, опускающая бровь",
+			"wiki": "%D0%9C%D1%8B%D1%88%D1%86%D0%B0,_%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%B1%D1%80%D0%BE%D0%B2%D1%8C"
 		},
 		"en": {
-			"label": "",
-			"wiki": ""
+			"label": "Depressor supercilii muscle",
+			"wiki": "Depressor_supercilii_muscle"
 		},
 		"kenhub": "",
 		"physiotherapist": ""
