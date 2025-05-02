@@ -144,6 +144,8 @@ class Atlas {
             }
             console.log('available', available);
             console.log('noAvailable', noAvailable);
+            console.log('objectName', objectName);
+            console.log('objectID', objectID);
             // create display list of object names
             // var table = document.getElementById('list');
             // for(var i = 0; i < objectName.length; i++){

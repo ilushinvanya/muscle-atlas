@@ -1,12 +1,12 @@
 {
 	"ru": {
-		"label": "",
-		"wiki": ""
+		"label": "Разгибатель мизинца",
+		"wiki": "%D0%A0%D0%B0%D0%B7%D0%B3%D0%B8%D0%B1%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%BC%D0%B8%D0%B7%D0%B8%D0%BD%D1%86%D0%B0"
 	},
 	"en": {
-		"label": "",
-		"wiki": ""
+		"label": "Extensor digiti minimi muscle",
+		"wiki": "Extensor_digiti_minimi_muscle"
 	},
-	"kenhub": "",
-	"physiotherapist": ""
+	"kenhub": "https://www.kenhub.com/en/library/anatomy/extensor-digiti-minimi-muscle",
+	"physiotherapist": "extensor-digiti-minimi"
 }
