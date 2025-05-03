@@ -25,15 +25,15 @@
     <div class="human-panel__header">
         <div id="muscle-name" class="human-panel__label"></div>
         <div class="human-panel__buttons">
-            <button id="male-btn" onclick="atlas.initHuman(maleId)"></button>
-            <button id="female-btn" onclick="atlas.initHuman(femaleId)"></button>
+            <button id="male-btn" onclick="atlas.initHuman(atlas.maleId)"></button>
+            <button id="female-btn" onclick="atlas.initHuman(atlas.femaleId)"></button>
         </div>
     </div>
     <div id="info-panel">
         <div id="google">
             <div class="google-header">
-                <button id="stretch-btn" onclick="atlas.setGoogleSuggestion('stretch')"></button>
                 <button id="strengthening-btn" onclick="atlas.setGoogleSuggestion('strengthening')"></button>
+                <button id="stretch-btn" onclick="atlas.setGoogleSuggestion('stretch')"></button>
             </div>
             <div class="gcse-search"
                  data-gname="storesearch"

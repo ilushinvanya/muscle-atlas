@@ -36,7 +36,7 @@ class Atlas {
         };
         this.human = new HumanAPI('human');
         this.currentGoogleSuggestion = '';
-        this.language = 'en';
+        this.language = 'ru';
 
         // Panel elements mapping
         this.elements = {
@@ -98,6 +98,12 @@ class Atlas {
 
             const res = await fetch('./data/muscles/' + muscleName + '.json');
             this.muscle = await res.json();
+
+            // Временная история для отсутствующих мышц
+            if(!this.muscle[this.language].label) {
+                // Этой мышцы пока нет в базе, выберите другую
+            }
+
 
             this.setGoogleQuery();
             this.setWikipediaSrc();
@@ -294,6 +300,8 @@ class Atlas {
 
         // Initialize human model
         this.initHuman(this.maleId);
+
+        this.setGoogleSuggestion('strengthening');
     }
 }
 
