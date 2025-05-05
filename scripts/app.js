@@ -1,8 +1,10 @@
 class Atlas {
     constructor() {
         // Constants
-        this.maleId = '5Ac8';
-        this.femaleId = '5Ac9';
+        this.models = {
+            male: '5Ac8',
+            female: '5Ac9'
+        }
 
         // DOM Elements
         this.maleBtn = document.getElementById('male-btn');
@@ -115,16 +117,16 @@ class Atlas {
     }
 
     initHuman(modelId) {
-        const bioDigitalPath = 'https://human.biodigital.com/widget/?be=' + modelId + '&ui-tour=false&ui-info=false&ui-fullscreen=false&ui-share=false&uaid=' + modelId;
+        const bioDigitalPath = 'https://human.biodigital.com/widget/?be=' + this.models[modelId] + '&ui-tour=false&ui-info=false&ui-fullscreen=false&ui-share=false&uaid=' + this.models[modelId];
         document.getElementById('human').src = bioDigitalPath;
         this.human = new HumanAPI('human');
 
         this.maleBtn.classList.remove('active');
         this.femaleBtn.classList.remove('active');
-        if(modelId === this.maleId) {
+        if(modelId === 'male') {
             this.maleBtn.classList.add('active');
         }
-        if(modelId === this.femaleId) {
+        if(modelId === 'female') {
             this.femaleBtn.classList.add('active');
         }
 
@@ -299,7 +301,7 @@ class Atlas {
         this.setLanguage(this.language);
 
         // Initialize human model
-        this.initHuman(this.maleId);
+        this.initHuman('male');
 
         this.setGoogleSuggestion('strengthening');
     }
