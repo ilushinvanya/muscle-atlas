@@ -8,7 +8,6 @@
 			"label": "Abductor digiti minimi muscle of the hand",
 			"wiki": "Abductor_digiti_minimi_muscle_of_the_hand"
 		},
-		"kenhub": "abductor-digiti-minimi-muscle-of-hand",
 		"physiotherapist": "abductor-digiti-minimi-hand"
 	},
 	"abductor_digiti_minimi_of_foot": {
@@ -20,7 +19,6 @@
 			"label": "Abductor digiti minimi muscle of foot",
 			"wiki": "Abductor_digiti_minimi_muscle_of_foot"
 		},
-		"kenhub": "abductor-digiti-minimi-muscle",
 		"physiotherapist": "abductor-digiti-minimi-foot"
 	},
 	"abductor_hallucis": {
@@ -32,7 +30,6 @@
 			"label": "Abductor hallucis muscle",
 			"wiki": "Abductor_hallucis_muscle"
 		},
-		"kenhub": "abductor-hallucis-muscle",
 		"physiotherapist": "abductor-hallucis"
 	},
 	"abductor_pollicis_brevis": {
@@ -44,7 +41,6 @@
 			"label": "Abductor pollicis brevis muscle",
 			"wiki": "Abductor_pollicis_brevis_muscle"
 		},
-		"kenhub": "abductor-pollicis-brevis-muscle",
 		"physiotherapist": "abductor-pollicis-brevis"
 	},
 	"abductor_pollicis_longus": {
@@ -56,7 +52,6 @@
 			"label": "Abductor pollicis longus muscle",
 			"wiki": "Abductor_pollicis_longus_muscle"
 		},
-		"kenhub": "abductor-pollicis-longus-muscle",
 		"physiotherapist": "abductor-pollicis-longus"
 	},
 	"adductor_brevis": {
@@ -68,7 +63,6 @@
 			"label": "Adductor brevis muscle",
 			"wiki": "Adductor_brevis_muscle"
 		},
-		"kenhub": "adductor-brevis-muscle",
 		"physiotherapist": "adductor-brevis"
 	},
 	"adductor_hallucis_oblique_head": {
@@ -80,7 +74,6 @@
 			"label": "Oblique head of adductor hallucis",
 			"wiki": "Adductor_hallucis_muscle"
 		},
-		"kenhub": "adductor-hallucis-muscle",
 		"physiotherapist": "adductor-hallucis"
 	},
 	"adductor_hallucis_transverse_head": {
@@ -92,7 +85,6 @@
 			"label": "Transverse head of adductor hallucis",
 			"wiki": "Adductor_hallucis_muscle"
 		},
-		"kenhub": "adductor-hallucis-muscle",
 		"physiotherapist": "adductor-hallucis"
 	},
 	"adductor_longus": {
@@ -104,7 +96,6 @@
 			"label": "Adductor longus muscle",
 			"wiki": "Adductor_longus_muscle"
 		},
-		"kenhub": "adductor-longus-muscle",
 		"physiotherapist": "adductor-longus"
 	},
 	"adductor_magnus": {
@@ -116,7 +107,6 @@
 			"label": "Adductor magnus muscle",
 			"wiki": "Adductor_magnus_muscle"
 		},
-		"kenhub": "adductor-magnus",
 		"physiotherapist": "adductor-magnus"
 	},
 	"adductor_minimus": {
@@ -128,7 +118,6 @@
 			"label": "Adductor minimus muscle",
 			"wiki": "Adductor_minimus_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"adductor_pollicis": {
@@ -140,7 +129,6 @@
 			"label": "Adductor pollicis muscle",
 			"wiki": "Adductor_pollicis_muscle"
 		},
-		"kenhub": "adductor-pollicis-muscle",
 		"physiotherapist": "adductor-pollicis"
 	},
 	"anconeus": {
@@ -152,7 +140,6 @@
 			"label": "Anconeus muscle",
 			"wiki": "Anconeus_muscle"
 		},
-		"kenhub": "anconeus-muscle",
 		"physiotherapist": "anconeus"
 	},
 	"anterior_belly_of_digastric_muscle": {
@@ -164,7 +151,6 @@
 			"label": "Anterior belly of the digastric muscle",
 			"wiki": "Digastric_muscle"
 		},
-		"kenhub": "digastric-muscle",
 		"physiotherapist": "digastric-muscle"
 	},
 	"anterior_cervical_intertransversarii": {
@@ -176,7 +162,6 @@
 			"label": "Anterior cervical intertransverse",
 			"wiki": "Intertransversarii"
 		},
-		"kenhub": "",
 		"physiotherapist": "intertransversarii-muscles"
 	},
 	"anterior_scalene": {
@@ -188,7 +173,6 @@
 			"label": "Anterior scalene muscle",
 			"wiki": "Scalene_muscles"
 		},
-		"kenhub": "scalene-muscles",
 		"physiotherapist": "anterior-scalene"
 	},
 	"antitragicus": {
@@ -200,7 +184,6 @@
 			"label": "Antitragicus",
 			"wiki": "Antitragicus"
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"articularis_genus": {
@@ -212,7 +195,6 @@
 			"label": "Articularis genus muscle",
 			"wiki": "Articularis_genus_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"aryepiglotticus": {
@@ -224,7 +206,6 @@
 			"label": "Aryepiglottic muscle",
 			"wiki": "Aryepiglottic_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"auricularis_anterior": {
@@ -236,7 +217,6 @@
 			"label": "Anterior auricular muscle",
 			"wiki": "Anterior_auricular_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"auricularis_posterior": {
@@ -248,7 +228,6 @@
 			"label": "Posterior auricular muscle",
 			"wiki": "Posterior_auricular_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"auricularis_superior": {
@@ -260,10 +239,8 @@
 			"label": "Superior auricular muscle",
 			"wiki": "Superior_auricular_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"biceps_brachii": {
 		"ru": {
 			"label": "Двуглавая мышца плеча",
@@ -273,7 +250,6 @@
 			"label": "Biceps brachii",
 			"wiki": "Biceps"
 		},
-		"kenhub": "biceps-brachii-muscle",
 		"physiotherapist": "biceps-brachii"
 	},
 	"biceps_femoris": {
@@ -285,7 +261,6 @@
 			"label": "Biceps femoris muscle",
 			"wiki": "Biceps_femoris_muscle"
 		},
-		"kenhub": "biceps-femoris-muscle",
 		"physiotherapist": "biceps-femoris"
 	},
 	"bicipital_aponeurosis": {
@@ -297,7 +272,6 @@
 			"label": "Bicipital aponeurosis",
 			"wiki": "Bicipital_aponeurosis"
 		},
-		"kenhub": "bicipital-aponeurosis",
 		"physiotherapist": ""
 	},
 	"brachialis": {
@@ -309,7 +283,6 @@
 			"label": "Brachialis muscle",
 			"wiki": "Brachialis_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": "brachialis"
 	},
 	"brachioradialis": {
@@ -321,7 +294,6 @@
 			"label": "Brachioradialis",
 			"wiki": "Brachioradialis"
 		},
-		"kenhub": "",
 		"physiotherapist": "brachioradialis"
 	},
 	"buccinator": {
@@ -333,7 +305,6 @@
 			"label": "Bucinator muscle",
 			"wiki": "Bucinator_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/buccinator-muscle",
 		"physiotherapist": "buccinator"
 	},
 	"bulbospongiosus_muscle": {
@@ -345,10 +316,8 @@
 			"label": "Bulbospongiosus muscle",
 			"wiki": "Bulbospongiosus_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/bulbospongiosus-muscle",
 		"physiotherapist": ""
 	},
-
 	"calcaneal_tendon": {
 		"ru": {
 			"label": "Ахиллово сухожилие",
@@ -358,7 +327,6 @@
 			"label": "Achilles tendon",
 			"wiki": "Achilles_tendon"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/achilles-tendon",
 		"physiotherapist": "achilles-tendon"
 	},
 	"coccygeus": {
@@ -370,7 +338,6 @@
 			"label": "Coccygeus muscle",
 			"wiki": "Coccygeus_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/coccygeus-muscle",
 		"physiotherapist": "coccygeus"
 	},
 	"coracobrachialis": {
@@ -382,7 +349,6 @@
 			"label": "Coracobrachialis muscle",
 			"wiki": "Coracobrachialis_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/coracobrachialis-muscle",
 		"physiotherapist": "coracobrachialis-muscle"
 	},
 	"corrugator_supercilii": {
@@ -394,7 +360,6 @@
 			"label": "Corrugator supercilii muscle",
 			"wiki": "Corrugator_supercilii_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/corrugator-supercilii-muscle",
 		"physiotherapist": "corrugator-supercilii"
 	},
 	"cremaster": {
@@ -406,10 +371,8 @@
 			"label": "Cremaster muscle",
 			"wiki": "Cremaster_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/cremaster-muscle",
 		"physiotherapist": ""
 	},
-
 	"deep_head_medial_pterygoid": {
 		"ru": {
 			"label": "Глубокая головка медиальной крыловидной мышцы",
@@ -419,7 +382,6 @@
 			"label": "Deep head of medial pterygoid muscle",
 			"wiki": "Medial_pterygoid_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/medial-pterygoid-muscle",
 		"physiotherapist": "medial-pterygoid"
 	},
 	"deep_transverse_perineal_muscle": {
@@ -431,7 +393,6 @@
 			"label": "Deep transverse perineal muscle",
 			"wiki": "Transverse_perineal_muscles"
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"deltoid": {
@@ -443,7 +404,6 @@
 			"label": "Deltoid muscle",
 			"wiki": "Deltoid_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/the-deltoid-muscle",
 		"physiotherapist": "deltoid"
 	},
 	"depressor_anguli_oris": {
@@ -455,7 +415,6 @@
 			"label": "Depressor anguli oris muscle",
 			"wiki": "Depressor_anguli_oris_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/depressor-anguli-oris-muscle",
 		"physiotherapist": "depressor-anguli-oris"
 	},
 	"depressor_labii_inferioris": {
@@ -467,7 +426,6 @@
 			"label": "Depressor labii inferioris muscle",
 			"wiki": "Depressor_labii_inferioris_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/depressor-labii-inferioris-muscle",
 		"physiotherapist": "depressor-labii-inferioris"
 	},
 	"depressor_septi_nasi": {
@@ -479,7 +437,6 @@
 			"label": "Depressor septi nasi muscle",
 			"wiki": "Depressor_septi_nasi_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"depressor_supercilii": {
@@ -491,10 +448,8 @@
 			"label": "Depressor supercilii muscle",
 			"wiki": "Depressor_supercilii_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"extensor_carpi_radialis_brevis": {
 		"ru": {
 			"label": "Короткий лучевой разгибатель запястья",
@@ -504,7 +459,6 @@
 			"label": "Extensor carpi radialis brevis muscle",
 			"wiki": "Extensor_carpi_radialis_brevis_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/extensor-carpi-radialis-brevis-muscle",
 		"physiotherapist": "extensor-carpi-radialis-brevis"
 	},
 	"extensor_carpi_radialis_longus": {
@@ -516,7 +470,6 @@
 			"label": "Extensor carpi radialis longus muscle",
 			"wiki": "Extensor_carpi_radialis_longus_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/extensor-carpi-radialis-longus-muscle",
 		"physiotherapist": "extensor-carpi-radialis-longus"
 	},
 	"extensor_carpi_ulnaris": {
@@ -528,7 +481,6 @@
 			"label": "Extensor carpi ulnaris muscle",
 			"wiki": "Extensor_carpi_ulnaris_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/extensor-carpi-ulnaris-muscle",
 		"physiotherapist": "extensor-carpi-ulnaris"
 	},
 	"extensor_digiti_minimi": {
@@ -540,7 +492,6 @@
 			"label": "Extensor digiti minimi muscle",
 			"wiki": "Extensor_digiti_minimi_muscle"
 		},
-		"kenhub": "https://www.kenhub.com/en/library/anatomy/extensor-digiti-minimi-muscle",
 		"physiotherapist": "extensor-digiti-minimi"
 	},
 	"extensor_digitorum": {
@@ -552,7 +503,6 @@
 			"label": "Extensor digitorum muscle",
 			"wiki": "Extensor_digitorum_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": "extensor-digitorum-communis"
 	},
 	"extensor_digitorum_brevis": {
@@ -564,7 +514,6 @@
 			"label": "Extensor digitorum brevis muscle",
 			"wiki": "Extensor_digitorum_brevis_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": "extensor-digitorum-brevis"
 	},
 	"extensor_digitorum_longus": {
@@ -576,7 +525,6 @@
 			"label": "Extensor digitorum longus muscle",
 			"wiki": "Extensor_digitorum_longus_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": "extensor-digitorum-longus"
 	},
 	"extensor_hallucis_brevis": {
@@ -588,7 +536,6 @@
 			"label": "Extensor hallucis brevis muscle",
 			"wiki": "Extensor_hallucis_brevis_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": "extensor-hallucis-brevis"
 	},
 	"extensor_hallucis_longus": {
@@ -600,7 +547,6 @@
 			"label": "Extensor hallucis longus muscle",
 			"wiki": "Extensor_hallucis_longus_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": "extensor-hallucis-longus"
 	},
 	"extensor_indicis": {
@@ -612,7 +558,6 @@
 			"label": "Extensor indicis muscle",
 			"wiki": "Extensor_indicis_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": "extensor-indicis-proprius"
 	},
 	"extensor_pollicis_brevis": {
@@ -624,7 +569,6 @@
 			"label": "Extensor pollicis brevis muscle",
 			"wiki": "Extensor_pollicis_brevis_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": "extensor-pollicis-brevis"
 	},
 	"extensor_pollicis_longus": {
@@ -636,7 +580,6 @@
 			"label": "Extensor pollicis longus muscle",
 			"wiki": "Extensor_pollicis_longus_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": "extensor-pollicis-longus"
 	},
 	"external_intercostals": {
@@ -648,7 +591,6 @@
 			"label": "External intercostal muscles",
 			"wiki": "External_intercostal_muscles"
 		},
-		"kenhub": "",
 		"physiotherapist": "intercostal-muscles"
 	},
 	"external_oblique": {
@@ -660,7 +602,6 @@
 			"label": "Abdominal external oblique muscle",
 			"wiki": "Abdominal_external_oblique_muscle"
 		},
-		"kenhub": "",
 		"physiotherapist": "external-abdominal-oblique"
 	},
 
@@ -673,7 +614,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"fibularis_brevis": {
@@ -685,7 +625,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"fibularis_longus": {
@@ -697,7 +636,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"fibularis_tertius": {
@@ -709,7 +647,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"first_dorsal_interosseous_muscle_of_hand": {
@@ -721,7 +658,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"first_dorsal_interosseus_muscle_of_foot": {
@@ -733,7 +669,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"first_lumbrical_muscle_of_foot": {
@@ -745,7 +680,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"first_lumbrical_muscle_of_hand": {
@@ -757,7 +691,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"first_palmar_interosseous_muscle_of_hand": {
@@ -769,7 +702,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"first_plantar_interosseous_muscle_of_foot": {
@@ -781,7 +713,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"flexor_carpi_radialis": {
@@ -793,7 +724,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"flexor_carpi_ulnaris": {
@@ -805,7 +735,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"flexor_digiti_minimi_brevis_of_foot": {
@@ -817,7 +746,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"flexor_digiti_minimi_brevis_of_hand": {
@@ -829,7 +757,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"flexor_digitorum_brevis": {
@@ -841,7 +768,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"flexor_digitorum_longus": {
@@ -853,7 +779,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"flexor_digitorum_profundus": {
@@ -865,7 +790,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"flexor_digitorum_superficialis": {
@@ -877,7 +801,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"flexor_hallucis_longus": {
@@ -889,7 +812,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"flexor_pollicis_brevis": {
@@ -901,7 +823,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"flexor_pollicis_longus": {
@@ -913,7 +834,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"fourth_dorsal_interosseous_muscle_of_hand": {
@@ -925,7 +845,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"fourth_dorsal_interosseus_muscle_of_foot": {
@@ -937,7 +856,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"fourth_lumbrical_muscle_of_foot": {
@@ -949,7 +867,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"fourth_lumbrical_muscle_of_hand": {
@@ -961,7 +878,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"frontalis": {
@@ -973,10 +889,8 @@
 			"label": "Frontal muscle",
 			"wiki": "Frontalis_muscle"
 		},
-		"kenhub": "frontalis-muscle",
 		"physiotherapist": ""
 	},
-
 	"genioglossus": {
 		"ru": {
 			"label": "",
@@ -986,7 +900,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"geniohyoid": {
@@ -998,7 +911,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"glossopharyngeal_part_of_superior_pharyngeal_constrictor": {
@@ -1010,7 +922,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"gluteus_maximus": {
@@ -1022,7 +933,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"gluteus_medius": {
@@ -1034,7 +944,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"gluteus_minimus": {
@@ -1046,7 +955,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"gracilis": {
@@ -1058,10 +966,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"helicis_major": {
 		"ru": {
 			"label": "",
@@ -1071,7 +977,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"helicis_minor": {
@@ -1083,7 +988,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"hyoglossus": {
@@ -1095,10 +999,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"iliacus": {
 		"ru": {
 			"label": "",
@@ -1108,7 +1010,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"iliococcygeus": {
@@ -1120,7 +1021,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"iliocostalis_cervicis": {
@@ -1132,7 +1032,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"iliocostalis_lumborum": {
@@ -1144,7 +1043,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"iliocostalis_thoracis": {
@@ -1156,7 +1054,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"iliotibial_tract": {
@@ -1168,7 +1065,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"inferior_belly_of_omohyoid": {
@@ -1180,7 +1076,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"inferior_gemellus": {
@@ -1192,7 +1087,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"inferior_lateral_pterygoid": {
@@ -1204,7 +1098,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"inferior_oblique": {
@@ -1216,7 +1109,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"inferior_oblique_part_of_longus_colli": {
@@ -1228,7 +1120,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"inferior_pharyngeal_constrictor": {
@@ -1240,7 +1131,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"inferior_rectus": {
@@ -1252,7 +1142,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"inferior_tarsal": {
@@ -1264,7 +1153,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"infraspinatus": {
@@ -1276,7 +1164,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"inguinal_falx": {
@@ -1288,7 +1175,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"innermost_intercostals": {
@@ -1300,7 +1186,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"internal_intercostals": {
@@ -1312,7 +1197,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"internal_oblique": {
@@ -1324,7 +1208,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"interspinales": {
@@ -1336,7 +1219,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"intertransversarii_laterales_lumborum": {
@@ -1348,7 +1230,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"intertransversarii_mediales_lumborum": {
@@ -1360,7 +1241,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"ischiocavernosus": {
@@ -1372,10 +1252,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"lateral_cricoarytenoid": {
 		"ru": {
 			"label": "",
@@ -1385,7 +1263,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"lateral_head_of_flexor_hallucis_brevis": {
@@ -1397,7 +1274,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"lateral_head_of_gastrocnemius": {
@@ -1409,7 +1285,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"lateral_posterior_cervical_intertransversarii": {
@@ -1421,7 +1296,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"lateral_rectus": {
@@ -1433,7 +1307,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"latissimus_dorsi": {
@@ -1445,7 +1318,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"levator_anguli_oris": {
@@ -1457,7 +1329,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"levator_labii_superioris": {
@@ -1469,7 +1340,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"levator_labii_superioris_alaeque_nasi": {
@@ -1481,7 +1351,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"levator_palpebrae_superioris": {
@@ -1493,7 +1362,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"levator_scapulae": {
@@ -1505,7 +1373,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"levator_veli_palatini": {
@@ -1517,7 +1384,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"levatores_costarum": {
@@ -1529,7 +1395,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"longissimus_capitis": {
@@ -1541,7 +1406,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"longissimus_cervicis": {
@@ -1553,7 +1417,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"longissimus_thoracis": {
@@ -1565,7 +1428,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"longus_capitis": {
@@ -1577,7 +1439,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"lower_part_of_cricopharyngeus": {
@@ -1589,7 +1450,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"lumbar_intertransversarii": {
@@ -1601,10 +1461,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"masseter": {
 		"ru": {
 			"label": "",
@@ -1614,7 +1472,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"medial_head_of_flexor_hallucis_brevis": {
@@ -1626,7 +1483,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"medial_head_of_gastrocnemius": {
@@ -1638,7 +1494,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"medial_rectus": {
@@ -1650,7 +1505,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"mentalis": {
@@ -1662,7 +1516,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"middle_pharyngeal_constrictor": {
@@ -1674,7 +1527,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"middle_scalene": {
@@ -1686,7 +1538,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"multifidus": {
@@ -1698,7 +1549,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"musculus_uvulae": {
@@ -1710,7 +1560,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"mylohyoid": {
@@ -1722,10 +1571,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"nasalis": {
 		"ru": {
 			"label": "",
@@ -1735,10 +1582,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"oblique_arytenoid": {
 		"ru": {
 			"label": "",
@@ -1748,7 +1593,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"oblique_muscle_of_auricle": {
@@ -1760,7 +1604,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"oblique_part_of_cricothyroid": {
@@ -1772,7 +1615,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"obliquus_capitis_inferior": {
@@ -1784,7 +1626,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"obliquus_capitis_superior": {
@@ -1796,7 +1637,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"obturator_externus": {
@@ -1808,7 +1648,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"obturator_internus": {
@@ -1820,7 +1659,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"occipitalis": {
@@ -1832,7 +1670,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"opponens_digiti_minimi": {
@@ -1844,7 +1681,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"opponens_pollicis": {
@@ -1856,7 +1692,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"orbicularis_oculi": {
@@ -1868,10 +1703,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"palatoglossus": {
 		"ru": {
 			"label": "",
@@ -1881,7 +1714,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"palatopharyngeus": {
@@ -1893,7 +1725,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"palmaris_brevis": {
@@ -1905,7 +1736,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"palmaris_longus": {
@@ -1917,7 +1747,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"pectineus": {
@@ -1929,7 +1758,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"pectoralis_major": {
@@ -1941,7 +1769,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"pectoralis_minor": {
@@ -1953,7 +1780,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"pharyngeal_raphe": {
@@ -1965,7 +1791,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"piriformis": {
@@ -1977,7 +1802,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"plantaris": {
@@ -1989,7 +1813,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"platysma": {
@@ -2001,7 +1824,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"popliteus": {
@@ -2013,7 +1835,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"posterior_belly_of_digastric_muscle": {
@@ -2025,7 +1846,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"posterior_cricoarytenoid": {
@@ -2037,7 +1857,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"posterior_scalene": {
@@ -2049,7 +1868,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"procerus": {
@@ -2061,7 +1879,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"pronator_quadratus": {
@@ -2073,7 +1890,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"pronator_teres": {
@@ -2085,7 +1901,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"psoas_major": {
@@ -2097,7 +1912,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"psoas_minor": {
@@ -2109,7 +1923,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"pterygomandibular_raphe": {
@@ -2121,7 +1934,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"pubococcygeus": {
@@ -2133,7 +1945,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"puborectalis": {
@@ -2145,7 +1956,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"pyramidalis": {
@@ -2157,10 +1967,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"quadratus_femoris": {
 		"ru": {
 			"label": "",
@@ -2170,7 +1978,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"quadratus_lumborum": {
@@ -2182,7 +1989,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"quadratus_plantae": {
@@ -2194,7 +2000,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"quadriceps_femoris_tendon": {
@@ -2206,10 +2011,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"rectus_abdominis": {
 		"ru": {
 			"label": "",
@@ -2219,7 +2022,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"rectus_capitis_anterior": {
@@ -2231,7 +2033,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"rectus_capitis_lateralis": {
@@ -2243,7 +2044,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"rectus_capitis_posterior_major": {
@@ -2255,7 +2055,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"rectus_capitis_posterior_minor": {
@@ -2267,7 +2066,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"rectus_femoris": {
@@ -2279,7 +2077,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"rhomboid_major": {
@@ -2291,7 +2088,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"rhomboid_minor": {
@@ -2303,7 +2099,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"risorius": {
@@ -2315,7 +2110,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"rotatores_cervicis": {
@@ -2327,7 +2121,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"rotatores_lumborum": {
@@ -2339,7 +2132,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"rotatores_thoracis": {
@@ -2351,10 +2143,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"salpingopharyngeus": {
 		"ru": {
 			"label": "",
@@ -2364,7 +2154,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"sartorius": {
@@ -2376,7 +2165,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"second_dorsal_interosseous_muscle_of_hand": {
@@ -2388,7 +2176,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"second_dorsal_interosseus_muscle_of_foot": {
@@ -2400,7 +2187,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"second_lumbrical_muscle_of_foot": {
@@ -2412,7 +2198,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"second_lumbrical_muscle_of_hand": {
@@ -2424,7 +2209,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"second_palmar_interosseous_muscle_of_hand": {
@@ -2436,7 +2220,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"second_plantar_interosseous_muscle_of_foot": {
@@ -2448,7 +2231,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"semimembranosus": {
@@ -2460,7 +2242,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"semispinalis_capitis": {
@@ -2472,7 +2253,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"semispinalis_cervicis": {
@@ -2484,7 +2264,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"semispinalis_thoracis": {
@@ -2496,7 +2275,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"semitendinosus": {
@@ -2508,7 +2286,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"serratus_anterior": {
@@ -2520,7 +2297,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"serratus_posterior_inferior": {
@@ -2532,7 +2308,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"serratus_posterior_superior": {
@@ -2544,7 +2319,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"soleus": {
@@ -2556,7 +2330,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"spinalis_cervicis": {
@@ -2568,7 +2341,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"spinalis_thoracis": {
@@ -2580,7 +2352,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"splenius_capitis": {
@@ -2592,7 +2363,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"splenius_cervicis": {
@@ -2604,7 +2374,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"sternocleidomastoid": {
@@ -2616,7 +2385,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"sternohyoid": {
@@ -2628,7 +2396,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"sternothyroid": {
@@ -2640,7 +2407,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"styloglossus": {
@@ -2652,7 +2418,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"stylohyoid": {
@@ -2664,7 +2429,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"stylopharyngeus_muscle": {
@@ -2676,7 +2440,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"subclavius": {
@@ -2688,7 +2451,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"subcostales": {
@@ -2700,7 +2462,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"subscapularis": {
@@ -2712,7 +2473,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"superficial_head_medial_pterygoid": {
@@ -2724,7 +2484,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"superficial_transverse_perineal_muscle": {
@@ -2736,7 +2495,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"superior_belly_of_omohyoid": {
@@ -2748,7 +2506,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"superior_gemellus": {
@@ -2760,7 +2517,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"superior_lateral_pterygoid": {
@@ -2772,7 +2528,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"superior_oblique": {
@@ -2784,7 +2539,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"superior_oblique_part_of_longus_colli": {
@@ -2796,7 +2550,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"superior_pharyngeal_constrictor": {
@@ -2808,7 +2561,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"superior_rectus": {
@@ -2820,7 +2572,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"superior_tarsal": {
@@ -2832,7 +2583,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"supinator": {
@@ -2844,7 +2594,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"supraspinatus": {
@@ -2856,10 +2605,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"temporalis": {
 		"ru": {
 			"label": "",
@@ -2869,7 +2616,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"temporoparietalis": {
@@ -2881,7 +2627,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"tensor_fasciae_latae": {
@@ -2893,7 +2638,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"tensor_tympani": {
@@ -2905,7 +2649,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"tensor_veli_palatini": {
@@ -2917,7 +2660,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"teres_major": {
@@ -2929,7 +2671,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"teres_minor": {
@@ -2941,7 +2682,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"third_dorsal_interosseous_muscle_of_hand": {
@@ -2953,7 +2693,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"third_dorsal_interosseus_muscle_of_foot": {
@@ -2965,7 +2704,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"third_lumbrical_muscle_of_foot": {
@@ -2977,7 +2715,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"third_lumbrical_muscle_of_hand": {
@@ -2989,7 +2726,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"third_palmar_interosseous_muscle_of_hand": {
@@ -3001,7 +2737,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"third_plantar_interosseous_muscle_of_foot": {
@@ -3013,7 +2748,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"thoracic_intertransversarii": {
@@ -3025,7 +2759,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"thyroarytenoid": {
@@ -3037,7 +2770,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"thyroepiglotticus": {
@@ -3049,7 +2781,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"thyrohyoid": {
@@ -3061,7 +2792,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"tibialis_anterior": {
@@ -3073,7 +2803,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"tibialis_posterior": {
@@ -3085,7 +2814,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"tragicus": {
@@ -3097,7 +2825,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"transverse_abdominis": {
@@ -3109,7 +2836,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"transverse_muscle_of_auricle": {
@@ -3121,7 +2847,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"transversus_nuchae": {
@@ -3133,7 +2858,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"transversus_thoracis": {
@@ -3145,7 +2869,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"trapezius": {
@@ -3157,7 +2880,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"triceps_brachii": {
@@ -3169,10 +2891,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"vastus_intermedius": {
 		"ru": {
 			"label": "",
@@ -3182,7 +2902,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"vastus_lateralis": {
@@ -3194,7 +2913,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"vastus_medialis": {
@@ -3206,7 +2924,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"vertical_intermediate_part_of_longus_colli": {
@@ -3218,7 +2935,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"vertical_part_of_cricothyroid": {
@@ -3230,7 +2946,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"vocalis": {
@@ -3242,10 +2957,8 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
-
 	"zygomaticus_major": {
 		"ru": {
 			"label": "",
@@ -3255,7 +2968,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	},
 	"zygomaticus_minor": {
@@ -3267,7 +2979,6 @@
 			"label": "",
 			"wiki": ""
 		},
-		"kenhub": "",
 		"physiotherapist": ""
 	}
 }
